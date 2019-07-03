@@ -1,25 +1,19 @@
-# Block 1: DS&A, Designs, Comp Sci, Recap
+# Data Modeling With NoSQL Databases
 
 ## Learning Objectives
-* White Board Strategy
-* Algorithmic Complexity (Big O)
-  * Purpose
-  * Theory
-  * Calculation
-* Linked Lists
-  * Theory/History
-  * Implementation
-* Scalable Designs and CSS
-  * SASS
-  * Variables, Mixins, Partials
+* Understand the differences between SQL and noSQL Databases
+* Understand the MongoDB Ecosystem
+* Modeling Data / Schemas
+* Lifecyle Hooks
+* Be able to use various MongoDB Clients
+  * mongo cli
+  * compass
+* Remote Mongo
+  * mLab
+  * Atlas
+  * Dynamo (AWS)
 
-## Labs and Assignments
 
-### Data Structure
-* Implement a Linked List Class
+In doubt? Refer to the **Mongo DB Cheatsheet** - Located in the "Reference" folder of the class repository
 
-### Design Implementation
-* Implement the basic architecture for a scalable design system
-
-### End of Block Project
-* Bitmap Transformer
+### NoSQL Data Modeling
