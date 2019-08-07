@@ -11,4 +11,4 @@ class Categories extends Model {
   constructor() { super(schema); }
 }
 
-module.exports = new Categories();
+module.exports = Categories;
