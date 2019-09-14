@@ -1,9 +1,7 @@
 # DSA Practice Rubric
 
+## Classic Data Structures
 ```
-DSA Things You Should Practice
-
-
 Given a ___________,  find _______________
 
 Array                      max element
@@ -13,6 +11,13 @@ Queue                      reversed/sorted/manipulated version of it
 Tree
 BST
 
-
-Iteratively, Recursively
+Iteratively && Recursively
 ```
+
+## Arrays
+
+- Sorting
+- Multi-Level
+  - Neighbors, Sums, Ways out of a maze
+- Deep Traversals
+- Creating other DS from an array
