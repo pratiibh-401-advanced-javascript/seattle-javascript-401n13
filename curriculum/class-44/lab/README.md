@@ -1,15 +1,15 @@
 # LAB - Javascript and Web Frameworks
- 
+
  Teach yourself a new language or framework! Take the next 2 class/lab sessions and learn something completely new, implemented by showcasing a Counter application.
- 
- 
+
+
 ## Before you begin
 Refer to *Getting Started*  in the [lab submission instructions](../../../reference/submission-instructions/labs/README.md) for complete setup, configuration, deployment, and submission instructions.
- 
+
 ## Getting Started
 
 ## Group Assignments
-* [Angular (latest)](https://angularjs.org/) - (Pratiibh, Jonny, Jeremy, Adrianne)
+* [Angular (latest)](https://angularjs.org/) - (Pratiibh, Jonny, Jeremy, Adriana)
 * [Meteor](https://www.meteor.com/) - (Austin, AJ, Lee)
 * [VueJS](https://vuejs.org/) - (Adrienne, Elizabeth, Brandyn)
 * [Typescript + HTML](https://www.typescriptlang.org/) - (Aileen, Brad, Joe)
@@ -20,7 +20,7 @@ Refer to *Getting Started*  in the [lab submission instructions](../../../refere
 * Create a new repository for your work, with the name of the framework you have been assigned.
 
 ## Assignment
-For the purposes of educating your class/teammates, your group will research and implement a "Counter" application using your assigned framework . The goal is to provide some analysis to your team as to the general viability of the framework. 
+For the purposes of educating your class/teammates, your group will research and implement a "Counter" application using your assigned framework . The goal is to provide some analysis to your team as to the general viability of the framework.
 
 * Initialize the Count to 0
 * Increment Button to increase count by 1
