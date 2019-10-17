@@ -13,6 +13,7 @@ Refer to *Getting Started*  in the [lab submission instructions](../../../refere
 * [Meteor](https://www.meteor.com/) - (Austin, AJ, Lee)
 * [VueJS](https://vuejs.org/) - (Adrienne, Elizabeth, Brandyn)
 * [Typescript + HTML](https://www.typescriptlang.org/) - (Aileen, Brad, Joe)
+* [Svelte](https://svelte.dev/) - (Anthony, Guru)
 
 ## Before you begin
 * Visit and familiarize yourself with the [ToDo MVC Project](http://todomvc.com)
