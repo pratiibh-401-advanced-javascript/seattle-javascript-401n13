@@ -1,6 +1,6 @@
 # LAB - Javascript and Web Frameworks
  
- Teach yourself a new language or framework! Take the next 2 class/lab sessions and learn something completely new, implemented by showcasing a To Do application.
+ Teach yourself a new language or framework! Take the next 2 class/lab sessions and learn something completely new, implemented by showcasing a Counter application.
  
  
 ## Before you begin
