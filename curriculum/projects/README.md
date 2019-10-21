@@ -1,37 +1,14 @@
-# Mid-Term Projects
+# Final Projects
 
-## Teams
-
-### George
-- Pratibh
-- Guru
-- Anthony
-
-### Jerry
-- AJ
-- Adrienne
-- Jeremy
-- Brad
-
-### Kramer
-- Adriana
-- Liz
-- Brandyn
-- Lee
-
-### Elaine
-- Aileen
-- Jonny
-- Austin
-- Joe
+## Drop the Mic and Stuff Your Resume
+Your final project should be a full showcase of the talents you've cultivated during your time here, your creativity, you ability to problem solve, work in a team, and meet a harsh deadline.
 
 ## Core Requirements
 
 * Use any, all, most, or none of what you learned ... 
     * Make sure it works great
+    * Make sure it looks amazing
     * Make sure it's covered in tests
-    * Make sure it has no UI -- this should be a back-end project only
-    * Your may build a back-end for your final project (upon instructor approval)
 
 **At your disposal**
 
@@ -42,8 +19,12 @@
 * SQL
 * Mongo
 * Socket.io
+* React
+* SASS
+* React Native (Mobile)
 * ... or teach yourself something totally new this week!
  
+
 
 ## Workflow
 
@@ -73,7 +54,7 @@
 
 ## Development Schedule
 
-#### 1st Monday
+#### Class 45 (Project Planning)
   * Create your github organization
     * Back-End Repo
     * Front-End Repo
@@ -85,42 +66,34 @@
     * At this stage, its's probably just stories to write more stories...
   * Get your Wiki setup for documentation
   
-#### 1st Tuesday
+#### Class 46 (Project Start)
   * Wireframes Complete
   * User workflows finalized
   * Initial design planned
-  * DEPLOYMENT PIPELINE Proof of Life
   * Code
   
-#### 1st Wednesday
-  * DEPLOYMENT PIPELINE Solidified and tested
-  * Code
-  
-#### 1st Thursday
+#### Class 47 (Core MVP)
   * First MVP should be completed by EOD
   * Your core functionality should be working end to end.
     * Databases Hooked up and saving
     * User workflow works (navigation, actions)
     
-#### Saturday
-  * Regroup
-  * Recap
-  * Re-Assess
-    
-#### 2nd Monday
+#### Class 48 (Final MVP)
   * Adding Non-Breaking Features 
+  * Layering on the Styles
   * Final "MVP" should be complete
     * Whatever you have by EOD should be presentation ready
-    * Anything you add from this point on is purely additive. 
-     
-#### 2nd Thursday
+    * Anything you add from this point on is purely additive.
+  
+#### Class 49
   * Final Polish
   * Presentation Practice
   
-#### Presentation Day
+#### Class 50 (Graduation Day)
   * Eat.
   * Drink.
   * Present.
+  * Graduate.
   * Win.
   
 ## Presentations
@@ -145,29 +118,5 @@ Why a deck? It's a helpful tool to keep you on time and on focus. Also, you will
 ## Tips and Tricks 
 
 * Solve a real business or community problem
-* Deliver someting deliverable (make it rock!)
+* Deliver something desirable (make it rock!)
 * Don't over-complicate. Sometimes, the simplest solution can be the most scalable and stable. Favor stability and tightness over wizardry
-
-## Project Ideas
-* Re-Implement our authenticated API in an AWS Serverless Environment
-  * Or in Azure
-  * Or at Auth0
-* Create an installable, downloadable `npm` package of value to devs
-  * Algorithms, OAuth, Queueing, etc.
-  * Middleware
-  * Helper Libraries or Utilities
-* Any sort of automation tool for a student, instructor, or the school
-  * Class Creator
-  * Assignment Linter
-* Github Tools
-* Implement OAuth from the other side (be a provider)
-* Text based games
-* Dev-Ops style automation (deployments, aws configs, etc)
-* Dockerizations
-* AI or Machine Learning Utility
-* Anything you can think of with a Raspberry Pi
-  * Motion Detect
-  * Camera
-  * Environment
-  * API Fetching
-  * Automation
